@@ -28,5 +28,5 @@ Experience the speed of the LPU-powered agent here:
 
 ## 1. Clone the repository
 
-git clone [https://github.com/Nauman123-coder/Reasoning-Agent-LPU.git](https://github.com/Nauman123-coder/Reasoning-Agent-LPU.git)
-cd Reasoning-Agent-LPU
+- git clone [https://github.com/Nauman123-coder/Reasoning-Agent-LPU.git](https://github.com/Nauman123-coder/Reasoning-Agent-LPU.git)
+- cd Reasoning-Agent-LPU
