@@ -1,6 +1,6 @@
 # 🚀 Reasoning-Agent-LPU
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://reasoning-agent-lpu.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nauman123-coder-reasoning-agent-lpu-app-bgrcor.streamlit.app/)
 
 A high-performance, autonomous reasoning agent system built with a **Client-Server architecture**. This project leverages **Groq's LPU (Language Processing Unit)** technology to deliver near-instantaneous AI reasoning, tool-calling, and stateful conversation management.
 
@@ -8,7 +8,7 @@ A high-performance, autonomous reasoning agent system built with a **Client-Serv
 
 ## 🌟 Live Demo
 Experience the speed of the LPU-powered agent here:
-👉 **[Live Deployment on Streamlit Cloud](https://reasoning-agent-lpu.streamlit.app/)**
+👉 **[Live Deployment on Streamlit Cloud](https://nauman123-coder-reasoning-agent-lpu-app-bgrcor.streamlit.app/)**
 
 ---
 
