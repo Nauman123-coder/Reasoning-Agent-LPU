@@ -1,0 +1,9 @@
+openai
+typing
+dataclasses
+dotenv
+uvicorn
+fastapi
+pydantic
+agent
+streamlit 
